@@ -20,7 +20,7 @@ Features
 
 
 
-Technologies Used
+- Technologies Used
 
 C# Windows Forms – for building the user interface.
 
@@ -28,7 +28,8 @@ SQL Server – for database storage and management.
 
 ADO.NET – for database connectivity and CRUD operations.
 
-Project Goals
+
+- Project Goals
 Provide a simple, user‑friendly interface for college administration.
 
 Demonstrate integration of Windows Forms with SQL Server.
@@ -36,7 +37,7 @@ Demonstrate integration of Windows Forms with SQL Server.
 Showcase CRUD functionality across multiple academic entities.
 
 
-Future Improvements
+- Future Improvements
 Add reporting features (student performance, lecturer workload).
 
 Implement role‑based authentication (admin, lecturer, student).
