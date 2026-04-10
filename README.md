@@ -1,6 +1,9 @@
 College LMS Application
 Overview
+
+
 The College LMS Application is a Windows Forms–based desktop application designed to streamline academic management for colleges. Built with C# Windows Forms and connected to a SQL Server database, the app provides a centralized dashboard for managing students, lecturers, courses, modules, and departments.
+
 
 Features
 🔐 Login Dashboard: Secure access to the system with role‑based entry.
@@ -15,7 +18,10 @@ Features
 
 🏫 Department Form: Manage academic departments and their associated modules/courses.
 
+
+
 Technologies Used
+
 C# Windows Forms – for building the user interface.
 
 SQL Server – for database storage and management.
